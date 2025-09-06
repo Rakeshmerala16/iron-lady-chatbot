@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iron Lady Leadership Chatbot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="chatbot-header">
+            <div class="header-content">
+                <div class="logo-placeholder">
+                    <div class="logo-icon">IL</div>
+                </div>
+                <div class="header-text">
+                    <h1>Iron Lady Leadership Chatbot</h1>
+                    <p>Get instant answers about our leadership programs</p>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Chat Container -->
+        <div class="chat-container">
+            <!-- FAQ Buttons Panel -->
+            <div class="faq-panel">
+                <h3>Quick Questions</h3>
+                <div class="faq-buttons">
+                    <button class="faq-btn" data-question="What programs does Iron Lady offer?">
+                        📚 Programs Offered
+                    </button>
+                    <button class="faq-btn" data-question="What is the program duration?">
+                        ⏰ Program Duration
+                    </button>
+                    <button class="faq-btn" data-question="Is the program online or offline?">
+                        💻 Format Options
+                    </button>
+                    <button class="faq-btn" data-question="Are certificates provided?">
+                        🎓 Certification
+                    </button>
+                    <button class="faq-btn" data-question="Who are the mentors and coaches?">
+                        👥 Mentors & Coaches
+                    </button>
+                    <button class="faq-btn" data-question="What are the program fees?">
+                        💰 Pricing Information
+                    </button>
+                    <button class="faq-btn" data-question="How to contact Iron Lady?">
+                        📞 Contact Information
+                    </button>
+                </div>
+            </div>
+
+            <!-- Chat Messages Area -->
+            <div class="chat-messages-container">
+                <div class="chat-header-actions">
+                    <button class="btn btn--secondary btn--sm" id="clearChatBtn">
+                        🗑️ Clear Chat
+                    </button>
+                </div>
+                
+                <div class="chat-messages" id="chatMessages">
+                    <!-- Welcome message will be inserted here -->
+                </div>
+                
+                <!-- Typing indicator -->
+                <div class="typing-indicator" id="typingIndicator">
+                    <div class="message bot-message">
+                        <div class="message-avatar">🤖</div>
+                        <div class="message-content">
+                            <div class="typing-dots">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Chat Input Area -->
+            <div class="chat-input-container">
+                <div class="input-group">
+                    <input 
+                        type="text" 
+                        id="messageInput" 
+                        class="form-control chat-input" 
+                        placeholder="Ask me about Iron Lady's leadership programs..."
+                        autocomplete="off"
+                    >
+                    <button class="btn btn--primary" id="sendBtn">
+                        <span class="send-text">Send</span>
+                        <span class="send-icon">📤</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="chatbot-footer">
+            <p>© 2025 Iron Lady - Enabling a Million Women to Reach the TOP</p>
+            <div class="footer-links">
+                <a href="https://iamironlady.com" target="_blank">Official Website</a>
+                <span>•</span>
+                <span>Founded 2017 • Bangalore, India</span>
+            </div>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
