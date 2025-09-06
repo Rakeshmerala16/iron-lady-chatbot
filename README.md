@@ -12,6 +12,9 @@ An intelligent, AI-powered chatbot designed for **Iron Lady Leadership Programs*
 
 This comprehensive chatbot serves as an interactive information hub for Iron Lady's leadership programs, featuring smart keyword matching, natural language processing, and professional UI design. The system provides both quick direct answers and detailed FAQ responses to help women learn about leadership development opportunities.
 
+## 🚀 Live Demo & Deployment
+**Live URL**: `https://rakeshmerala16.github.io/iron-lady-chatbot/`
+
 **🎯 Mission Supported**: "Enabling a Million Women to Reach the TOP"  
 **📍 Organization**: Iron Lady Leadership Programs, Bangalore, India  
 **👥 Impact**: 78,000+ women empowered since 2017  
@@ -228,35 +231,7 @@ This comprehensive chatbot serves as an interactive information hub for Iron Lad
 "Explain Iron Lady to me"
 "What can you help with?"
 
-## 📊 Project File Structure
-
 ```
-iron-lady-chatbot/
-│
-├── index.html                 # Main HTML structure and layout
-├── style.css                 # Professional styling and Iron Lady branding
-├── app.js                    # Core chatbot functionality and logic
-├── README.md                 # Comprehensive project documentation
-├── .gitignore               # Git ignore rules for clean repository
-└── LICENSE                  # Open source license (MIT recommended)
-```
-### **Unique Methodology: Business War Tactics**
-Iron Lady's signature approach combines **Art of War principles** with modern business strategies, specifically adapted for women in leadership:
-
-- **Strategic Thinking**: Long-term planning and competitive advantage
-- **Shameless Pitching**: Confident presentation and negotiation skills
-- **Unapologetic Mindset**: Building confidence and assertiveness
-- **Strategic Maximization**: Optimizing resources and opportunities
-
-### **Contact Information**
-- **🌐 Website**: [iamironlady.com](https://iamironlady.com)
-- **📍 Location**: Bangalore, Karnataka, India
-- **🏢 Office Address**: KIADB plot#8, 1st cross, Sadaramangala road, Mahadevapura post, Bangalore, Karnataka 560048
-- **📧 Contact**: Available through official website
-- **🔗 Social Media**: Active presence on LinkedIn, Instagram, and other platforms
-
-## 🚀 Live Demo & Deployment
-
 ## 🌟 Recognition & Credits
 
 ### **Project Creator**
@@ -273,6 +248,14 @@ This chatbot was developed as part of a comprehensive web development project, d
 - **Mission**: "Enabling a Million Women to Reach the TOP"
 - **Website**: [iamironlady.com](https://iamironlady.com)
 
+### **Technical Stack Credits**
+- **HTML5**: Semantic markup and modern web standards
+- **CSS3**: Advanced styling with custom properties and responsive design
+- **JavaScript ES6+**: Modern programming patterns and best practices
+- **Responsive Design**: Mobile-first approach with cross-device compatibility
+
+---
+
 ### 🎯 **Built with ❤️ to Support Iron Lady's Mission of "Enabling a Million Women to Reach the TOP"**
 
 ⭐ **Star this repository** if you found it helpful and inspiring!  
@@ -281,3 +264,9 @@ This chatbot was developed as part of a comprehensive web development project, d
 🚀 **Deploy your own version** and share your improvements!  
 
 **Thank you for supporting women's leadership development! 💪👩‍💼🌟**
+🔄 **Fork and customize** for your own organization or learning!  
+📧 **Contribute** to make it even better for the community!  
+🚀 **Deploy your own version** and share your improvements!  
+
+**Thank you for supporting women's leadership development! 💪👩‍💼🌟**
+```
