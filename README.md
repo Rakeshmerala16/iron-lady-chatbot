@@ -13,7 +13,7 @@ An intelligent, AI-powered chatbot designed for **Iron Lady Leadership Programs*
 This comprehensive chatbot serves as an interactive information hub for Iron Lady's leadership programs, featuring smart keyword matching, natural language processing, and professional UI design. The system provides both quick direct answers and detailed FAQ responses to help women learn about leadership development opportunities.
 
 ## 🚀 Live Demo & Deployment
-**Live URL**: `https://rakeshmerala16.github.io/iron-lady-chatbot/`
+**Live URL**: `[Click here to view the site](https://rakeshmerala16.github.io/iron-lady-chatbot/)`
 
 **🎯 Mission Supported**: "Enabling a Million Women to Reach the TOP"  
 **📍 Organization**: Iron Lady Leadership Programs, Bangalore, India  
