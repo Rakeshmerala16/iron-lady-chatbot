@@ -28,7 +28,7 @@ cd iron-lady-chatbot
 # 3. Open the project
 # - Double-click index.html
 # - Or right-click → "Open with Browser"
-
+```
 
 
 ### 🔧 **Technical Architecture**
@@ -38,7 +38,7 @@ cd iron-lady-chatbot
 - **Matching Algorithm**: Advanced scoring system for query understanding
 - **Performance**: Fast loading, optimized for all devices
 - **Extensibility**: Ready for AI API integration
-
+  ```
 ## 💬 Complete List of Questions This Bot Can Answer
 
 ### **🎓 Program Information & Details**
