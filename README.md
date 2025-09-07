@@ -16,37 +16,20 @@ This comprehensive chatbot serves as an interactive information hub for Iron Lad
 **Live URL**: [Click here to view the site](https://rakeshmerala16.github.io/iron-lady-chatbot/)
 
 
-**🎯 Mission Supported**: "Enabling a Million Women to Reach the TOP"  
-**📍 Organization**: Iron Lady Leadership Programs, Bangalore, India  
-**👥 Impact**: 78,000+ women empowered since 2017  
-**🏆 Programs**: 4 comprehensive leadership development programs  
+## ▶️ How to Run
 
-## ✨ Key Features & Capabilities
+```bash
+# 1. Clone the repository
+git clone https://github.com/rakeshmerala16/iron-lady-chatbot.git
 
-### 🤖 **Advanced Response System**
-- **Direct Answer Mode**: Concise 1-2 line responses to typed questions
-- **Detailed FAQ Mode**: Comprehensive responses with structured information cards
-- **Smart Keyword Matching**: Advanced algorithm understands various question formats
-- **Natural Language Processing**: Recognizes different ways of asking the same question
-- **Fallback Handling**: Graceful responses for unrecognized queries
-- **Session Management**: Chat history maintained during browser session
+# 2. Navigate into the project folder
+cd iron-lady-chatbot
 
-### 🎨 **Professional User Interface** 
-- **Iron Lady Branding**: Professional color scheme (deep blue & gold accents)
-- **Responsive Design**: Optimized for desktop, tablet, and mobile devices
-- **Interactive Elements**: Smooth animations, typing indicators, message timestamps
-- **Quick Access Buttons**: One-click FAQ responses for common questions
-- **Professional Typography**: Clean, readable fonts with proper hierarchy
-- **Clear Chat Functionality**: Reset conversation with one click
+# 3. Open the project
+# - Double-click index.html
+# - Or right-click → "Open with Browser"
 
-### 📚 **Comprehensive Information Database**
-- Complete details for all 4 Iron Lady programs
-- Duration, format, and scheduling information
-- Certification and professional recognition details
-- Complete mentor and faculty profiles
-- Transparent pricing and investment information
-- Contact details and application processes
-- Mission, vision, and organizational background
+
 
 ### 🔧 **Technical Architecture**
 - **Frontend**: HTML5, CSS3, Vanilla JavaScript
@@ -234,14 +217,6 @@ This comprehensive chatbot serves as an interactive information hub for Iron Lad
 
 ```
 ## 🌟 Recognition & Credits
-
-### **Project Creator**
-This chatbot was developed as part of a comprehensive web development project, demonstrating:
-- **Advanced JavaScript programming** and modern ES6+ features
-- **Professional UI/UX design** with responsive web development
-- **Business analysis** and requirements gathering
-- **Technical documentation** and project management
-- **AI-ready architecture** for future enhancements
 
 ### **Iron Lady Leadership Programs**
 - **Organization**: Iron Lady Leadership Programs, Bangalore, India
